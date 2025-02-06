@@ -7,3 +7,5 @@ First build program with Cargo
 ```sh
 cargo build -- release
 ```
+
+Finish
